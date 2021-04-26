@@ -1,3 +1,3 @@
-s21_test.s21_test import *
+from s21_test.s21_test import *
 
 
